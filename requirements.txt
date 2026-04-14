@@ -1,0 +1,14 @@
+pandas
+polars
+pyarrow
+plotly
+seaborn
+matplotlib
+scikit-learn
+xgboost
+prophet
+statsmodels
+shap
+pulp
+streamlit
+pdfplumber
