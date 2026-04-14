@@ -22,7 +22,7 @@ This project analyses **production performance** as the core KPI and builds adva
 
 ### Live Demo
 [Open Interactive Dashboard](https://your-streamlit-link-here)  
-*(Deployed via Streamlit Cloud — replace with your actual link after deployment)*
+
 
 ### How to Run Locally
 ```bash
