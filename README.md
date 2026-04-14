@@ -21,7 +21,7 @@ This project analyses **production performance** as the core KPI and builds adva
 - Interactive visualisation with Streamlit
 
 ### Live Demo
-[Open Interactive Dashboard](https://your-streamlit-link-here)  
+[Open Interactive Dashboard](https://rustenburg-pgm-forecaster.streamlit.app/)  
 
 
 ### How to Run Locally
